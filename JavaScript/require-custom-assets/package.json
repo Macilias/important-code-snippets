@@ -1,0 +1,7 @@
+{
+  "name": "require-custom-assets",
+  "version": "1.0.0",
+  "dependencies": {
+    "custom-assets": "file:custom-assets"
+  }
+}
